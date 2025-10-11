@@ -1,1 +1,5 @@
-{'date': '', 'start': 0, 'stop': 0, 'ok': 0, 'version': 1}
+{
+  "diagnostic": "test",
+  "timestamp": "now",
+  "message": "This is a test update"
+}
